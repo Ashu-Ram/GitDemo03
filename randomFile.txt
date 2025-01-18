@@ -1,2 +1,4 @@
 This is new file
-Adding new line 
+Adding new line
+This line can not be pushed :wq
+
